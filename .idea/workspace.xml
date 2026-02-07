@@ -18,25 +18,25 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "reviewState": "AWAITING_REVIEW"
+      &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
     }
   ],
-  "lastFilter": {
-    "reviewState": "AWAITING_REVIEW"
+  &quot;lastFilter&quot;: {
+    &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mariialoran25-coder/First_team_project.git",
-    "accountId": "3e7d8126-647b-49f6-a2c8-5f9e9c3e59b3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mariialoran25-coder/First_team_project.git&quot;,
+    &quot;accountId&quot;: &quot;3e7d8126-647b-49f6-a2c8-5f9e9c3e59b3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="39LM9C9iooKJQ92bTuMbR2TMALN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,7 +50,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
