@@ -1,4 +1,3 @@
 # First_team_project
-Team project 
-
-Лоран Марія - SE
+Team project Ivan
+Team progect Mariia
